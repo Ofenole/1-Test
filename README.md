@@ -11,3 +11,9 @@ bild hir [image](mystischer-wald01.jpg)
 :book:   
 :alien:    
 🐺
+
+## Checkboxes
+- [x] Git und Githup
+- [ ] Css
+- [ ] HTML
+- [ ] JavaScript
